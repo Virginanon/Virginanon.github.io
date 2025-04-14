@@ -1,1 +1,0 @@
-import{_ as s,c as r,a as t,o as n}from"./index-McYjsMWL.js";const a={};function o(c,e){return n(),r("main",null,e[0]||(e[0]=[t("h2",null,"This is Register Page",-1)]))}const l=s(a,[["render",o]]);export{l as default};
